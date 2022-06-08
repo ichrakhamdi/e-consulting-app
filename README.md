@@ -1,6 +1,6 @@
-# E-consulting app is a mobile e-consulting application allowing the customers of Aggricus (located in Technopole Manouba) to enjoy the service on their cell phone.
-
-A sample app to showcase login-signup app using flutter. 
+# E-consulting app 
+A mobile e-consulting application allowing the customers of Aggricus (located in Technopole Manouba) to enjoy the service on their cell phone.
+ 
 
 # Demo
 <img height="480px" width="270px" src="">
