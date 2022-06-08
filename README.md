@@ -3,7 +3,8 @@ A mobile e-consulting application allowing the customers of Aggricus (located in
  
 
 # Demo
-https://user-images.githubusercontent.com/106702375/172606725-cb38c8a4-7fdf-400e-841a-8bfccf85b3d8.mp4
+https://user-images.githubusercontent.com/106702375/172607653-5d2949e3-4a9c-45c4-aa6f-480109956c9e.mp4
+
 
 
 
