@@ -30,11 +30,11 @@ A mobile e-consulting application allowing the customers of Aggricus (located in
 <a href='https://flutter.dev/docs/get-started/install/windows'><br/>
 -Pour apprendre Flutter et Dart 
 <a href='https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ'><br/>
-Pour bien connaitre comment on utilise firebase 
+-Pour bien connaitre comment on utilise firebase 
 lien1: 
-https://blog.learncodeonline.in/flutter-firebase-authentication-using-email-and-password
+<a href='https://blog.learncodeonline.in/flutter-firebase-authentication-using-email-and-password'><br/>
 lien 2:
-https://itnext.io/firestore-backend-for-flutter-in-browser-code-lab-part-1-1b94d7839b94
+<a href ='https://itnext.io/firestore-backend-for-flutter-in-browser-code-lab-part-1-1b94d7839b94'><br/>
 lien 3:
-https://itnext.io/firestore-backend-for-flutter-in-browser-codelab-part-2-web-app-8f1ceb2c4e44
+<a href ='https://itnext.io/firestore-backend-for-flutter-in-browser-codelab-part-2-web-app-8f1ceb2c4e44'><br/>
 
