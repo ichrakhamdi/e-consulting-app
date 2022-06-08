@@ -24,10 +24,10 @@ A mobile e-consulting application allowing the customers of Aggricus (located in
   <img height="480px" src="https://user-images.githubusercontent.com/106702375/172589124-349c8477-1697-4540-b307-967dbe7a2ea4.png">
  
 ## Getting Started
-Pour l'installation d’Android Studio
-<a href="https://www.youtube.com/watch?v=0zx_eFyHRU0">
-Pour l'installation de Flutter 
-https://flutter.dev/docs/get-started/install/windows
+-Pour l'installation d’Android Studio
+**<a href="https://www.youtube.com/watch?v=0zx_eFyHRU0">
+-Pour l'installation de Flutter 
+** https://flutter.dev/docs/get-started/install/windows
 Pour apprendre Flutter et Dart 
 https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
 Pour bien connaitre comment on utilise firebase 
