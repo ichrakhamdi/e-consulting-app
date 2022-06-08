@@ -27,9 +27,9 @@ A mobile e-consulting application allowing the customers of Aggricus (located in
 -Pour l'installation d’Android Studio
 <a href="https://www.youtube.com/watch?v=0zx_eFyHRU0"><br/>
 -Pour l'installation de Flutter 
-** https://flutter.dev/docs/get-started/install/windows
-Pour apprendre Flutter et Dart 
-https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+<a href='https://flutter.dev/docs/get-started/install/windows'><br/>
+-Pour apprendre Flutter et Dart 
+<a href='https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ'><br/>
 Pour bien connaitre comment on utilise firebase 
 lien1: 
 https://blog.learncodeonline.in/flutter-firebase-authentication-using-email-and-password
