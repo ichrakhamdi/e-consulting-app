@@ -24,3 +24,17 @@ A mobile e-consulting application allowing the customers of Aggricus (located in
   <img height="480px" src="https://user-images.githubusercontent.com/106702375/172589124-349c8477-1697-4540-b307-967dbe7a2ea4.png">
  
 ## Getting Started
+Pour l'installation d’Android Studio
+https://www.youtube.com/watch?v=0zx_eFyHRU0
+Pour l'installation de Flutter 
+https://flutter.dev/docs/get-started/install/windows
+Pour apprendre Flutter et Dart 
+https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+Pour bien connaitre comment on utilise firebase 
+lien1: 
+https://blog.learncodeonline.in/flutter-firebase-authentication-using-email-and-password
+lien 2:
+https://itnext.io/firestore-backend-for-flutter-in-browser-code-lab-part-1-1b94d7839b94
+lien 3:
+https://itnext.io/firestore-backend-for-flutter-in-browser-codelab-part-2-web-app-8f1ceb2c4e44
+
