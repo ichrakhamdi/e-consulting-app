@@ -8,7 +8,7 @@ A sample app to showcase login-signup app using flutter.
 
 
 # Android Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_login-signup_demo/blob/master/screens/android1.png">  <img height="480px" src="https://user-images.githubusercontent.com/106702375/172588281-32144445-374e-4cad-9d5a-b3871005cd6a.png"
+<img height="480px" src="https://user-images.githubusercontent.com/106702375/172588281-32144445-374e-4cad-9d5a-b3871005cd6a.png">  <img height="480px" src=""
 
 
 ## Getting Started
